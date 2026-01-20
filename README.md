@@ -53,7 +53,7 @@ Canvas API  PostgreSQL  ChromaDB  OpenAI API
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/[na4sh11]/ai-teaching-assistant-canvas.git
+git clone https://github.com/na4sh11/ai-teaching-assistant-canvas.git
 cd ai-teaching-assistant-canvas
 \`\`\`
 
