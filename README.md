@@ -132,7 +132,6 @@ pytest --cov=src tests/
 - Canvas LMS API Documentation
 - OpenAI API
 - LangChain Framework
-- [University Name] MSIS Program
 
 ---
 
