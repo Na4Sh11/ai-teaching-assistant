@@ -107,7 +107,7 @@ streamlit run src/dashboard/app.py
 
 ## Running Tests
 
-\`\`\`bash
+\`\`\` bash
 # Run all tests
 pytest
 
@@ -132,7 +132,6 @@ pytest --cov=src tests/
 - Canvas LMS API Documentation
 - OpenAI API
 - LangChain Framework
-
 ---
 
 **Last Updated:** January 2025  
