@@ -124,15 +124,7 @@ pytest --cov=src tests/
 - [ ] Canvas API integration
 - [ ] Database schema design
 - [ ] Basic dashboard UI
-- [ ] At-risk detection algorithm
-
-
-## Acknowledgments
-
-- Canvas LMS API Documentation
-- OpenAI API
-- LangChain Framework
-- [University Name] MSIS Program
+- [ ] At-risk detection 
 
 ---
 
